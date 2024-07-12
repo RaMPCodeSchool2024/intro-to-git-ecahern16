@@ -7,5 +7,6 @@ Instructions:
 3. Run the script to confirm it does what you expect.
 4. Add your changes, commit them, then push to the GitHub Classroom repository.
 
-
+Hello World!
+My name is Erin :)
 
